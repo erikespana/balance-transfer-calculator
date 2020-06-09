@@ -1,6 +1,6 @@
 # Balance transfer calculator
 
-Figures out the most you can borrow for the same interest rate.
+Figures out the most you can borrow for a fixed interest rate.
 
 Uses Javascript and CSS grids
 
