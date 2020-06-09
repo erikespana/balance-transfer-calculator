@@ -6,7 +6,7 @@ Uses Javascript and CSS grids
 
 ## Features
 
-* High Lighthouse score
+* Web performance (Lighthouse)
 
 
 
