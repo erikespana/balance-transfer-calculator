@@ -15,7 +15,8 @@ Uses Javascript and CSS grids
 
 ## Why
 
-I built this to reuse what I've learned and want to learn on web development projects.
+I built this to explore web technologies I've learned or wanted to learn.
 
 * Google Tag manager
 * Google Analytics
+* Setting up an Amazon Web Services S3 bucket for web hosting.
