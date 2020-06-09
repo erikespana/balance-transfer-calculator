@@ -13,10 +13,11 @@ Uses Javascript and CSS grids
 ## How to use
 1. Enter your amount
 
-## Why
+## Learning
 
 I built this to explore web technologies I've learned or wanted to learn.
 
 * Google Tag manager
 * Google Analytics
 * Setting up an Amazon Web Services S3 bucket for web hosting.
+* Progressive web app
