@@ -1,5 +1,7 @@
 # Balance transfer calculator
 
+https://erikespana.github.io/balance-transfer-calculator/
+
 Figures out the most you can borrow for a fixed interest rate.
 
 Uses Javascript and CSS grids
