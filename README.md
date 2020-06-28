@@ -24,8 +24,13 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number
 
 ### CSS Grid
 
+I used CSS grids template to layout the page, calculator fields and results text.
+[CSS grids](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout#Guides) is built into CSS. There's nolonger any need to load third-party CSS frameworks like Bootstrap.
 
+### Web hosting
 
+- I got one year of free storage on Amazon's hosting service, AWS.
+- I picked a domain name on Namecheap.com
 
 ### Web performance (Lighthouse)
 * It doesn't use 
