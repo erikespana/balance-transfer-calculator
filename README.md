@@ -15,12 +15,14 @@ Figures out the most you can transfer to a credit card for a given rate.
 
 ## Features
 
-### HTML 5
+### HTML 5 validation
 
 #### <input type="number">
-Built-in validation.
+fields prevent visitors from typing anything besides numbers in the fields.
 Makes sure the user enters a number.
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/number
+
+<button> triggers the JavaScript to run.
 
 ### CSS Grid
 
