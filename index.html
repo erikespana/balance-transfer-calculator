@@ -24,23 +24,46 @@
 			<header>
 			</header>
 		
-		<section id="top" class="background">
-			<h1>Balance transfer maximizer</h1>
-			<p>Calculate your balance transfer fee and see if you can transfer a little more.</p>
-		</section>
-		
-		<section id="results" class="background">
-			<h2>Results</h2>
-			
-		</section>
-		
-		<footer class="main-footer">
-			<ul>
-				<li>&#169; 2019 balancetransfer.best</li>
-			</ul>
-		</footer>
+			<section id="top" class="background">
+				<h1>Balance transfer maximizer</h1>
+				<p>Calculate your balance transfer fee and see if you can transfer a little more.</p>
+				
+				<form id="form" action="/" method="GET">
+						
+					<label id="label-balance" for="balance">Transfer amount:</label>
+
+					<div id="input-balance">
+						$ <input id="balance" name="balance" value="1000.50" type="number" step="0.01" min="0" required>
+					</div>
+
+					<label id="label-rate" for="rate">Fee percentage:</label>
+
+					<div id="inpkkkut-rate">
+						<input id="rate" name="rate" value="1" type="number" step="0.01" min="0" required>
+						<span id="percent">%</span>
+					</div>
+					
+					<div id="nothing"></div>
+					
+					<input id="input-calculate" type="button" value="Calculate" />
+				</form>
+				
+				
+				
+			</section>
+
+			<section id="results" class="background">
+				<h2>Results</h2>
+
+			</section>
+
+			<footer class="main-footer">
+				<ul>
+					<li>&#169; 2019 balancetransfer.best</li>
+				</ul>
+			</footer>
 		</div>
 		<script src="http://openexchangerates.github.io/accounting.js/accounting.min.js"></script>
-  	<script src="js/calculator.js"></script>
+  		<script src="js/calculator.js"></script>
 	</body>
 </html>
