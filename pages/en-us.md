@@ -1,4 +1,5 @@
 ---
+layout: page
 language: en
 country: us
 title: "Balance transfer maximizer"
