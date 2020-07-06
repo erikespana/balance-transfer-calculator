@@ -3,6 +3,8 @@ layout: page
 title: "Balance' transferencia"
 language: "es"
 country: "do"
+---
+
 //description:
 CurrencySymbol:
 FieldAmount: Transferencia
@@ -15,4 +17,3 @@ columnTransfer: Balancé
 //ResultsInstruction:
 //Recomend
 //How
----
