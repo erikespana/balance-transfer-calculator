@@ -2,7 +2,7 @@
 layout: page
 language: "en"
 country: "us"
-title: "Balance transfer maximizer"
+title: "Balance transfer Maximizer"
 ---
 
 description: "Calculate your balance transfer fee and see if you can transfer a little more."
