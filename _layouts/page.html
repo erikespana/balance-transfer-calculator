@@ -2,7 +2,9 @@
 <html>
 	
 	<head>
+		{% for page in site.pages %}
 		<link rel="alternate" href="http://example.com/fr" hreflang="{{ page.language }}-{{ page.country }}"/>
+		{% endfor %}
 		<link rel="stylesheet" href="css/layout-page.css">
 		<link rel="stylesheet" href="css/layout-form.css">
 		<link rel="stylesheet" href="css/styles.css">
