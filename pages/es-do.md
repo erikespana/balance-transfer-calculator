@@ -1,4 +1,5 @@
 ---
+layout: page
 language: es
 country: do
 //title:
