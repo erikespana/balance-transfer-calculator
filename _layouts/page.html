@@ -3,7 +3,9 @@
 	
 	<head>
 		{% for page in site.pages %}
-		<link rel="alternate" href="http://example.com/fr" hreflang="{{ page.language }}-{{ page.country }}"/>
+		{% if page.exclude != true %}
+		<link rel="alternate" href="{{site.canonical_domain}}{{site.baseurl}}{{ page.url }}" hreflang="{{ page.language }}-{{ page.country }}"/>
+		{% endif %}
 		{% endfor %}
 		<link rel="stylesheet" href="css/layout-page.css">
 		<link rel="stylesheet" href="css/layout-form.css">
