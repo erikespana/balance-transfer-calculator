@@ -1,8 +1,8 @@
 ---
 layout: page
-language: es
-country: do
-//title:
+title: "Balance' transferencia"
+language: "es"
+country: "do"
 //description:
 CurrencySymbol:
 FieldAmount: Transferencia
